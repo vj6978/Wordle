@@ -164,6 +164,4 @@ mod tests {
         assert_eq!(game.board[0].iter().len(), 5);
         assert_eq!(game.word_to_guess, word_to_guess);
     }
-
-    #[test]
 }
