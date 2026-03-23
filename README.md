@@ -1,4 +1,4 @@
-# Primus Wordle 🧩
+#  Wordle 🧩
 
 A sleek, terminal-based Wordle clone written in Rust. Test your vocabulary and logic skills directly from your command line!
 
